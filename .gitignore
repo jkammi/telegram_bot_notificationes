@@ -42,3 +42,4 @@ target/
 /gradlew.bat
 settings.gradle
 /allure-report
+notifications/draft.txt
